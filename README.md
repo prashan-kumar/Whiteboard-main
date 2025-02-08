@@ -18,7 +18,7 @@ This Whiteboard Drawing App is a collaborative drawing tool that allows users to
 
 1. Clone the repository:
     ```
-    git clone https://github.com/prashan kumar/Whiteboard.git
+    git clone https://github.com/prashan-kumar/Whiteboard.git
     ```
 
 2. Navigate to the project directory:
